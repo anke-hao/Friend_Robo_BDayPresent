@@ -6,6 +6,8 @@
 
 Welcome to [Robo Memories](https://ankehao.itch.io/robo-memories), the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D platformer who navigates the environment and finds "Robo Memories," yellow robots that contain capsules of memories my friend and I shared throughout our college experience. 
 
+The Friend Birthday Present Series is a series of short games I built, each over the course of 3-4 days, as birthday gifts for friends who were living in separate locations from me at the time of their birthday.
+
 ## How To Play
 ### Basic Commands
 - Navigate with WASD and press SPACE to jump. 
