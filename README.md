@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<img align="left" src="https://github.com/anke-hao/Friend_Robo_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%202.png" style="height: 300px;">
+<img align="left" src="https://github.com/anke-hao/Friend_Robo_BDayPresent/blob/main/Screenshots/In-game%20Screenshot%202.png" style="height: 250px;">
 
 Welcome to [Robo Memories](https://ankehao.itch.io/robo-memories), the gamified interactive experience I made for my friend's birthday! In this experience, you play as a character in a 2D platformer who navigates the environment and finds "Robo Memories," yellow robots that contain capsules of memories my friend and I shared throughout our college experience. 
 
